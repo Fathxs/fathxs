@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨‍💻 Fathxs | Cybersecurity Enthusiast 🛡️
 
-<!--
-**Fathxs/fathxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=header&text=Hello,%20I'm%20Fathxs&fontSize=40&fontColor=000000&animation=twinkling" />
+</div>
 
-Here are some ideas to get you started:
+### 👾 `whoami`
+```bash
+root@fathxs:~# cat about_me.txt
+> 🔭 I’m currently playing on **HackTheBox** & **TryHackMe**
+> ⚔️ Honing skills in **Penetration Testing & Web Exploitation**
+> 🌱 I’m currently learning **Malware Analysis & Python Scripting**
+> 🎯 Goals: Get **eJPT / OSCP** certification
+> 💬 Ask me about **OSINT, Linux, and Networking**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Threat Intel (GitHub Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fathxs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
