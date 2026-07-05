@@ -6,7 +6,6 @@
 
 ### 👾 `whoami`
 ```bash
-root@fathxs:~# cat about_me.txt
 > 🔭 I’m currently playing on **HackTheBox** & **TryHackMe**
 > ⚔️ Honing skills in **Penetration Testing & Web Exploitation**
 > 🌱 I’m currently learning **Malware Analysis & Python Scripting**
