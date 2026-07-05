@@ -1,7 +1,7 @@
 # 👨‍💻 Fathxs | Cybersecurity Enthusiast 🛡️
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=header&text=Hello,%20I'm%20Fathxs&fontSize=40&fontColor=000000&animation=twinkling" />
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=header&text=Hello,%20I'm%20Fathxs&fontSize=40&fontColor=000000&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=header&text=Hello,%20I'm%20Fathxs&fontSize=40&fontColor=000000&animation=twinkling)" />
 </div>
 
 ### 👾 `whoami`
@@ -10,9 +10,5 @@ root@fathxs:~# cat about_me.txt
 > 🔭 I’m currently playing on **HackTheBox** & **TryHackMe**
 > ⚔️ Honing skills in **Penetration Testing & Web Exploitation**
 > 🌱 I’m currently learning **Malware Analysis & Python Scripting**
-> 🎯 Goals: Get **eJPT / OSCP** certification
+> 🎯 2026 Goals: Get **eJPT / OSCP** certification
 > 💬 Ask me about **OSINT, Linux, and Networking**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fathxs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
