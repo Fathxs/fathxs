@@ -12,5 +12,13 @@
 > 🌱 I’m currently learning Malware Analysis & Python Scripting
 > 🎯 Goals: Get eJPT / OSCP certification
 > 💬 Ask me about OSINT, Linux, and Networking
+### 🐍 The "Worm" 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fathxs/fathxs/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fathxs/fathxs/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Fathxs/fathxs/output/github-snake.svg">
+  </picture>
+</div>
 
 
