@@ -24,9 +24,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 📊 Threat Intel (GitHub Stats)
+### 📟 Terminal Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fathxs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=500&lines=Scanning+target+system...;Bypassing+security+controls...;Exploiting+vulnerabilities...;Root+access+granted." />
 </div>
 
 ### 🐍 The "Worm" 
